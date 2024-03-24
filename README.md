@@ -52,5 +52,5 @@ https://github.com/franckfotso/opsim/blob/main/docs/OPSIM-Guide%20d'utilisation.
 
 ![image](https://github.com/franckfotso/opsim/assets/18245472/c28a125e-5b80-4023-a4bb-69c91b4260bb)
 
-Toutes les illustrations faites dans ce project s’appuient fortement sur le jeu de données « UseCase0-YDE-PosteCen_Data » livré dans le package ou DVD d’OPSIM.
+Toutes les illustrations faites dans ce project s’appuient fortement sur le jeu de données « UseCase0-YDE-PosteCen_Data(https://drive.google.com/file/d/1hc1vAWOcJTQE5RLyXMSddCmGIZ_xUCdr/view?usp=sharing) ».
 NB : Ce dépôt résulte d'un projet de fin d'études, réalisé et présenté en 2014. À cet effet, certains outils ou librairies pourraient être non à jour comparativement à la date actuelle. Veuillez en tenir compte avant de faire usage de ce projet.
